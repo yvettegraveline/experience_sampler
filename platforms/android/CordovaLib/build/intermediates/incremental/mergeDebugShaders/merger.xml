@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/Universe1/Desktop/ESapp/MWapp/platforms/android/CordovaLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Universe1/Desktop/ESapp/MWapp/platforms/android/CordovaLib/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/guille/yvette/experience_sampler/platforms/android/CordovaLib/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/guille/yvette/experience_sampler/platforms/android/CordovaLib/src/debug/shaders"/></dataSet></merger>
