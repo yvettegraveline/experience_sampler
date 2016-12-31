@@ -65,8 +65,8 @@ var surveyQuestions = [
        },
        {
        "type": "slider",
-       "variableName": "stressThermometer",
-       "questionPrompt": "Please indicate the amount of stress you are experiencing at the moment by moving the slider up or down. 0           means you are experiencing no stress and 100 means you are experiencing the highest amount of stress. You can see the value to the           right of the slider.",
+       "variableName": "intenseSlider",
+       "questionPrompt": "How intense are your feelings about Donald Trump? (left=low;right=high)",
        "minResponse": 0,
        "maxResponse": 100,
        },
